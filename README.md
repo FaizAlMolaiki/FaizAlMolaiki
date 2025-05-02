@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Faiz AL-MOlaiki 👋</h1>
+<h1 align="center">Hi, I'm Faiz AL-Molaiki 👋</h1>
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+David's+Github+!">
     <img src="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Faiz's+Github+!" alt="Typing SVG" />
@@ -63,10 +63,10 @@
 
 ## 📩 Connect with me
 <p align="center">
-  <a href="mailto:davidhany81@gmail.com" title="Gmail">
+  <a href="mailto:faiztech10@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/david-hany-245087178/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/faiz-al-molaiki-4451b6342/" title="LinkedIn">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
